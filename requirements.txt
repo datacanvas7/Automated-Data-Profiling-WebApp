@@ -3,6 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
-ydata-profiling
-setuptools
 openpyxl
+ydata-profiling==4.6.4
+setuptools>=65.0.0
